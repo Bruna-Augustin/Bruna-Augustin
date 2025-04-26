@@ -27,40 +27,6 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
----
-
-### 🚀 My Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 Netflix Data Analysis</h3>
-      <p><strong>Tools:</strong> Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI</p>
-      <a href="https://your-netflix-project-link.com" target="_blank">
-        <img src="https://img.shields.io/badge/Click%20Here-red?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/f30cc7d7-d16e-41a9-932f-e5d25967ec92" width="100%" alt="netflix-project-img" />
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🌍 World Population Analysis</h3>
-      <p><strong>Tools:</strong> Python, Pandas, NumPy, Seaborn, Matplotlib, Power BI</p>
-      <a href="https://your-world-population-project-link.com" target="_blank">
-        <img src="https://img.shields.io/badge/Click%20Here-red?style=for-the-badge&logo=github&logoColor=white">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github.com/user-attachments/assets/9c4d7bf9-b8e3-45e4-9e32-c55adbee92ff" width="100%" alt="population-project-img" />
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🌱 Currently Learning  
 > 📌 Advanced Python for Data Analysis  
 > 📌 Complex SQL Joins & Window Functions  
