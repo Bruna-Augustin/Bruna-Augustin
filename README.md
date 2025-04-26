@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm <span style="color:#F39C12;">Bruna Augustin</span></h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel&center=true&width=500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst;Python+•+SQL+•+Power+BI+•+Excel&center=true&width=500" alt="Typing SVG" />
 </h3>
 <p align="center">
   <img src="https://jobpakado.com/wp-content/uploads/2024/04/Data-Science.gif" width="300" alt="data-science-gif">
